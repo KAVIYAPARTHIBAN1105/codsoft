@@ -1,0 +1,59 @@
+.outer-box
+{
+    background-color: #ccc;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+.main-div
+{
+    
+    background-color: rgb(125, 71, 131);
+    width:300px;
+    
+    border:1px solid white;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+h1
+{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    color:azure;
+    font-family: 'Comic Neue', cursive;
+    font-size: 35px;
+    
+
+}
+#display
+{
+    display:flex;
+    border-radius: 4px;
+    justify-content: center;
+    align-items:center;
+    width:90%;
+    height:40px;
+    margin-left:10px;
+    margin-bottom:10px;
+    font-size: 22px;
+}
+.btn
+{
+    width:60px;
+    height: 60px;
+    border-radius: 30%;
+    border: 1px solid #02084a;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.but-wrap
+{
+display:flex;
+ flex:wrap;
+ 
+ margin-top:10px;
+ width:100%;
+ 
+}

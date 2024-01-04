@@ -1,0 +1,86 @@
+.trail
+{
+    margin:20px 0px;
+   font-size:large;
+   font-family: 'Comic Neue', cursive;
+   font-family: 'Roboto', sans-serif;
+   
+}
+.btn
+{
+    background-color:rgb(207 244 252);
+    border: 2px solid #000;
+    border-radius: 5px;
+    width:200px;
+    height: 10%;
+    font-family: 'Comic Neue', cursive;
+font-family: 'Roboto', sans-serif;
+ font-weight: 300px;
+
+}
+.banner
+{
+    
+ background-image: url(/PORTFOLIO/copy-space-surrounded-by-office-supplies.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding:250px 0px;
+}
+.about
+{
+    margin:40px;
+}
+.par
+{
+    margin:40px 0px;
+    font-size: x-large;
+    font-family: 'Comic Neue', cursive;
+font-family: 'Roboto', sans-serif;
+}
+.about
+{
+    
+ background-color: #bddef5;
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding:180px 0px;
+ 
+}
+.skills
+{
+    padding:10px;
+}
+.card
+{
+    width: 300px
+;
+height: 300px;
+border: 1px solid #000;
+}
+.hello
+{
+    border: 2px solid #ae4803;
+    border-radius: 5px;
+}
+.skills{
+    background-image: url(/PORTFOLIO/trial.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+}
+.buttn
+{
+background-color: #1f4293;
+width: 100px;
+}
+.Contact
+{
+    background-color:#c1dff5;
+    border: 1px solid #000;
+    border-radius: 2px;
+    padding: 2px;
+}
+.form-text{
+    font-size: 10px;
+}
+
